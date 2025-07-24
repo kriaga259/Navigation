@@ -1,5 +1,5 @@
 //
-//  SecondView.swift
+//  ContactView.swift
 //  Navigation
 //
 //  Created by Scholar on 7/24/25.
@@ -7,12 +7,12 @@
 
 import SwiftUI
 
-struct SecondView: View {
+struct ContactView: View {
     var body: some View {
-        Text("You've arrived to the second view")
+        Text("You've arrived to the contact view!")
     }
 }
 
 #Preview {
-    SecondView()
+    ContactView()
 }
