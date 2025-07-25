@@ -30,8 +30,8 @@ struct ContentView: View {
                 
             }
             .navigationTitle("Home")
-            .navigationBarTitleDisplayMode(.inline)
-            .navigationBarHidden(true)
+//            .navigationBarTitleDisplayMode(.inline)
+//            .navigationBarHidden(true)
             
         }
         
